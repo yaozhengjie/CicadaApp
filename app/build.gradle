@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.0"
 
     defaultConfig {
-        applicationId "info.htian.cicadaapp"
+        applicationId "com.cicada.app"
         minSdkVersion 11
         targetSdkVersion 21
         versionCode 1

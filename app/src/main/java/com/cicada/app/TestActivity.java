@@ -1,4 +1,4 @@
-package info.htian.cicadaapp;
+package com.cicada.app;
 
 import android.app.Activity;
 import android.os.AsyncTask;
